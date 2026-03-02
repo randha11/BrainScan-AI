@@ -1,0 +1,11 @@
+flask
+flask-sqlalchemy
+tensorflow
+numpy
+matplotlib
+scikit-learn
+pillow
+opencv-python
+h5py
+tensorflow-hub
+reportlab
